@@ -2,6 +2,8 @@
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.2.3.
 
+This project is an implementation of a web application for file sharing.
+
 ## Getting Started
 
 ### Prerequisites
